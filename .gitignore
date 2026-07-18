@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+pyvenv.cfg
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Cachés y pruebas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Construcción y distribución
+build/
+dist/
+
+# Configuración local de VS Code
+.vscode/
+
+# Copias temporales
+pyproject.toml.bak
+pyproject.toml-bak
